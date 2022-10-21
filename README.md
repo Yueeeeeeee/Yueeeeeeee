@@ -3,4 +3,4 @@
 - 👀 I’m interested in NLP, RecSys & Data Mining
 - 🌱 Check out some of my recent papers & implementation below:)
 
-[Yueeeeeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueeeeeeee)
+![Yueeeeeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueeeeeeee)
