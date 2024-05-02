@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [Zhenrui Yue](https://yueeeeeeee.github.io/) 
 - 📫 I’m a 3rd year PhD candidate at UIUC
-- 👀 I’m broadly interested in NLP, RecSys & IR research
+- 👀 I’m broadly interested in LLM, RecSys & IR research
 - 💼 Research @Google in summer 2024, Previously @NVIDIA @ETH @UCSD @TUM 
 - 🌱 Check out some of my recent publications and implementation below:)
 
